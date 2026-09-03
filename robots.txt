@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://laurellea332-boop.github.io/jessica-baby-photo-album/sitemap.xml
 
 # James Torrey ABDL Gallery
 # Crawl-delay: 1
